@@ -1,4 +1,4 @@
-# Prediction of 30-Day Hospital Inpatient Readmission Rates 
+# Prediction of 30-Day Hospital Inpatient Readmission Rates with Machine Learning
 # Introduction 
 In 2012, the [Centers for Medicare and Medicaid Services (CMS)](https://www.cms.gov/Medicare/Medicare-Fee-for-Service-Payment/AcuteInpatientPPS/Readmissions-Reduction-Program) began reducing Medicare payments for subsection(d) hospitals with excess readmissions within 30 days of discharge, under the [Hospital Readmission Reduction Program (HRRP)](https://www.cms.gov/Medicare/Medicare-Fee-for-Service-Payment/AcuteInpatientPPS/Readmissions-Reduction-Program#:~:text=The%20Hospital%20Readmissions%20Reduction%20Program,in%20turn%2C%20reduce%20avoidable%20readmissions.). CMS has a proprietary formula for determining excess 30-day readmission rate (RR). Total readmissions for cases involving a specific set of conditions for which initial admission occured (heart attack, heart failure, pneumonia, chronic obstructive pulmonary disease, hip/knee replacement, and coronary artery bypass graft surgery) at a given hospital are divided by an expected RR that is based upon RR at hospitals deemed to be similar by CMS.
 
